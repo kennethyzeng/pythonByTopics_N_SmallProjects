@@ -1,3 +1,6 @@
+#Created by kenneth Zeng 
+#the purpos of these code is for quick study for prepaing interview or catch up for job or refresh memory. sometime, easy code is fast to catch up 
+
 ##understand instance variable VS. class variable 
 # class Variable is similar to global variable 
 # if you change value of class vaiable, it impact the value of that particular variable for each object  

@@ -1,3 +1,6 @@
+#Created by kenneth Zeng 
+#the purpos of these code is for quick study for prepaing interview or catch up for job or refresh memory. sometime, easy code is fast to catch up 
+
 ##understand theory of self. 
 ##When calling method, self is port to c1 object 
 ##when multiple objects(like c1, c2, c3, etc) are creates, self is point to its own object. 
